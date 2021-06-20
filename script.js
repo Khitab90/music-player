@@ -9,7 +9,7 @@ const title = document.querySelector('#title')
 const cover = document.querySelector('#cover')
 
 //Song Titles
-const songs = ['De Una Vez', 'Sam Smith - Im Not The Only One', 'Strawberry Guy - Mrs Magic']
+const songs = ['1', '2', '3']
 
 //Keep track of songs
 let songIndex = 1
